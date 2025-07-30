@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luiznormando
 - 👀 I’m interested in C development and Shell scripting.
-- 🌱 I’m currently learning GO.
-- 💞️ I’m looking to collaborate on open source projects written in C for embedded devices.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on open source projects written in C for embedded systems.
 - 📫 How to reach me, just open a pull request to me ;-)
 
 <!---
